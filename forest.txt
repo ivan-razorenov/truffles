@@ -1,0 +1,6 @@
+test
+
+truffle: kv-super-secret-resource
+
+test
+
