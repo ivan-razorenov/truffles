@@ -1,6 +1,7 @@
 test
 
 truffle: kv-super-secret-resource
+gigatruffle: rg-aadp-shared-dev
 
 test
 
